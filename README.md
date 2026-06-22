@@ -111,7 +111,7 @@ NR206/
 ## Running MGU Training
 
 ```bash
-python MGU/train_mgu.py
+jupyter notebook MGU_DATASET_TRAIN.ipynb
 ```
 
 ---
@@ -119,7 +119,7 @@ python MGU/train_mgu.py
 ## Running NR206 Training
 
 ```bash
-python NR206/train_nr206.py
+jupyter notebook NR206_DATSET_TRAIN.ipynb
 ```
 
 ---
@@ -129,13 +129,13 @@ python NR206/train_nr206.py
 ### MGU
 
 ```bash
-python MGU/test_mgu.py
+jupyter notebook MGU_DATASET_TEST.ipynb
 ```
 
 ### NR206
 
 ```bash
-python NR206/test_nr206.py
+jupyter notebook NR206_DATSET_TEST.ipynb
 ```
 
 ---
